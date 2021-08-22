@@ -7,5 +7,5 @@ CLI for requesting today's COVID-19 incidence number for given German ZIP code.
 Use CLI to retrieve incidence number (rounded down).
 
 ```bash
-$python covid_plz/main.py 10115
+$ python covid_plz/main.py 10115
 ```
